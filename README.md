@@ -20,7 +20,7 @@
 - [Projects](#-projects)
 - [Feedback](#-feedback)
 
-## ![image](IMG/aiming.svg) Aim Of The Project
+##  Aim Of The Project
 
 As a Python newbie, I understand the problems that I face when i first begin studying and attempting to understand various Data Science concepts, particularly Python. This project is to solve the basic problems that i encounter using Python principles and exploring GitHub.
 
@@ -28,7 +28,7 @@ My goal is to build a common playground where upskill myself from beginner to ex
 
 Let's "folk-ing" create amazing things together! 👉
 
-## ![image](IMG/game-ps.svg) Contributing
+## Contributing
 
 <details>
 <summary>
@@ -174,19 +174,19 @@ Now wait, until _your Pull Request_ is approved! If there are any conflicts, you
 
 <br>
 
-## ![image](IMG/bookmark.svg) README Template for scripts
+##  README Template for scripts
 
 please make sure to add a `README.md` file that follow the same construction as this template for consistency.
 
 [README Template](https://github.com/praveenkumar99-cloud/python_projects/blob/master/README_TEMPLATE.md)
 
-## ![image](IMG/like.svg) Our Contributors
+## Our Contributors
 
 <a href="https://github.com/praveenkumar99-cloud/python_projects/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ndleah/python-mini-project" />
+  <img src="https://contrib.rocks/image?repo=praveenkumar99-cloud/python_projects" />
 </a>
 
-## ![image](IMG/muscle.svg) Feedback
+##  Feedback
 
 If you have any feedback or ideas to improve this project, feel free to contact me via
 
